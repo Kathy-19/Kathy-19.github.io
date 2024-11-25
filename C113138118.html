@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>學生履歷表</title>
+    <style>ㄒ
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            max-width: 600px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>個人履歷表</h1>
+
+    <section>
+        <h2>(一)基本資料</h2>
+        <p>姓名：張芯瑜</p>
+        <p>電話：0983-767-007</p>
+        <p>電子郵件：c113138118@nkust.edu.tw</p>
+        <p>地址： 811高雄市楠梓區高雄科技大學第一校區</p>
+    </section>
+
+    <section>
+        <h2>(二)自我介紹</h2>
+        <p>  老闆您好，我是張芯瑜，本身個性開朗且努力向上，善於與人溝通和團隊合作，交代的任務會全力以赴的完成，
+            做事情喜歡預先規劃，對每件事物講求完美，不管遇到任何困難肯定具備堅持到底、永不放棄的精神。</p>
+    </section>
+
+    <section>
+        <h2>(三)個人特質</h2>
+        <p>融會貫通、追求卓越、具洞察力、理解力優、不負所托、友善夥伴</p>
+    </section>
+
+        <section>
+        <h2>(四)學歷</h2>
+        <p>國立高雄科技大學，金融系，學士，2024年 - 2028年</p>
+        <p>私立屏榮高中，電子商務科，2021年 - 2024年</p>
+    </section>
+
+    <section>
+        <h2>(五)技能檢定</h2>
+        <ul>
+            <li>1.電腦軟體應用丙級</li>
+            <li>2.電腦軟體應用乙級</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>(六)求學經歷</h2>
+        <p>1.校內電腦繪圖比賽榮獲第一名</p>
+        <p>2.校內影音剪輯比賽榮獲甲組第一名</p>
+        <p>3.校內公民訓練榮獲考驗活動組優勝</p>
+        <p>4.校外高雄市我的簡報力入選準決賽</p>
+        <p>5.全國技藝競賽商業類商業簡報榮獲第7名(金手獎)</p>
+        <p>6.榮獲屏東縣113年中等學校優秀青年</p>
+    </section>
+
+</body>
+</html>
